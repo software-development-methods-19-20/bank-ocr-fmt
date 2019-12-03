@@ -5,5 +5,3 @@
 [Bank OCR kata](http://codingdojo.org/kata/BankOCR/) with Java, Gradle and Travis CI.
 
 
-
-j
