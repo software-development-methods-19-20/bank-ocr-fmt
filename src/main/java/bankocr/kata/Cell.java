@@ -1,4 +1,5 @@
 package bankocr.kata;
+/**/
 
 public class Cell {
 
