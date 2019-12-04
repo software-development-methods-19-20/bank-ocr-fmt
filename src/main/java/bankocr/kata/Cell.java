@@ -1,6 +1,7 @@
 package bankocr.kata;
 /**/
 
+/** **/
 public class Cell {
 
     private static final String ZERO_CELL =
